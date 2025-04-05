@@ -1,4 +1,4 @@
-inicio = int(input("quantos clientes deseja cadastrar?"))
+inicio = int(input("quantos clientes deseja cadastrar?(maximo de 3)"))
 
 if inicio == 3:
 
