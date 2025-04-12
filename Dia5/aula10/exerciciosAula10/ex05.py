@@ -15,3 +15,5 @@ def descobrir_idade():
 
 print(f"Idade: {descobrir_idade()} anos.")
 
+input("Pressione Enter para fechar...")
+
