@@ -15,8 +15,7 @@ aqui tem a minha jornada para aprender python
 ## 🛠️Tecnologias utilizadas:
 
 > Editor de código: VS Code
-> 
-Linguagem : python 
+>  Linguagem : python 
 
 ## Versões:
 
